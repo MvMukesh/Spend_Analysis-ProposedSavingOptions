@@ -1,2 +1,4 @@
 # Deep-Into-Spend-Analysis
-This is a brief Spend-Analysis task which includes Data Analysis Report (word doc and ppt)| Tableau  Dashboard | Python Code(Jupyter Notebook)
+Sharing Spend-Analysis Project(solution along with saving opportunity) which is based on a Poultry Farm located in India, this work includes Data Analysis Report (word doc and ppt)| Tableau  Dashboard | Python Code(Jupyter Notebook) | Saving PPT
+
+I will add more detail soon.....
