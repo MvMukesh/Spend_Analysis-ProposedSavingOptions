@@ -18,7 +18,7 @@ After our Deep Analysis we proposed some saving of appx 3%, which is I have show
 
 ----
 ----
-* `Problem and Required are mentioned in 1.Problem & Requirements.docx`
+* `Problem and Requirements are mentioned in 1.Problem & Requirements.docx`
 * `Columns Details are given in 2.DataDictionary.xlsx`
 * `Then other things like code, pptx, dash Board with KPI in other can be seen`
 
