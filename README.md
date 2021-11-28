@@ -7,7 +7,7 @@ Spend-Analysis Project(solution along with saving opportunity) which is based on
 ## KPMG India Evaluators Reviews:
 ![image](https://user-images.githubusercontent.com/26667491/143770350-84102ab5-fa93-47f6-8427-b2047e01a1b1.png)
 
-I am not writing much about this project here, as this will be like reinventing the whel.
+I am not writing much about this project here, as this will be like reinventing the wheel.
 You can go through all the solution files which I have uploaded.
 We were a group of 3.
 
