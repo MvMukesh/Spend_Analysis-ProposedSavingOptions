@@ -20,7 +20,10 @@ After our Deep Analysis we proposed some saving of appx 3%, which is I have show
 ----
 * `Problem and Requirements are mentioned in 1.Problem & Requirements.docx`
 * `Columns Details are given in 2.DataDictionary.xlsx`
-* `Then other things like code, pptx, dash Board with KPI in other can be seen`
+* `Then other things like code, pptx, Dash Board with KPI in other can be seen`
 
 ## Dataset Shape:
 ![image](https://user-images.githubusercontent.com/26667491/143770805-fb8b2196-beff-42cc-9e1a-a1e584aec554.png)
+
+## Dash Board 
+![Uploading image.png…]()
