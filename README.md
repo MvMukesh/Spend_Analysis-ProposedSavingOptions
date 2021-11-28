@@ -1,5 +1,14 @@
 # Deep-Into-Spend-Analysis
-Sharing Spend-Analysis Project(solution along with saving opportunity) which is based on a Poultry Farm located in India, this work includes Data Analysis Report (word doc and ppt)| Tableau  Dashboard | Python Code(Jupyter Notebook) | Saving PPT
+`This was a project given by KPMG_India` <br>
+Spend-Analysis Project(solution along with saving opportunity) which is based on a Poultry Farm located in India, this work includes Data Analysis Report (word doc and ppt)| Tableau  Dashboard | Python Code(Jupyter Notebook) | Saving PPT
 
-[Find Data here](https://www.kaggle.com/mukeshmanral/spend-analytics)
-I will add more detail soon.....
+[I have uploaded the data here](https://www.kaggle.com/mukeshmanral/spend-analytics)
+
+## KPMG India Evaluators Reviews:
+![image](https://user-images.githubusercontent.com/26667491/143770350-84102ab5-fa93-47f6-8427-b2047e01a1b1.png)
+
+I am not writing much about this project here, as this will be like reinventing the whel.
+You can go through all the solution files which I have uploaded.
+We were a group of 3.
+
+
