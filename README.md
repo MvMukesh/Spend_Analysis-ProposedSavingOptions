@@ -9,7 +9,10 @@ Spend-Analysis Project(solution along with saving opportunity) which is based on
 
 I am not writing much about this project here, as this will be like reinventing the wheel.
 You can go through all the solution files which I have uploaded.
-We were a group of 3.
+We were a group of 3
+1. Butan Mangu --> Now a Data Analyst
+2. Rafel Pikula --> PHD in Mathematics now Entrepreneur
+3. Me --> Now Data Scientist 
 
 ------
 ------
